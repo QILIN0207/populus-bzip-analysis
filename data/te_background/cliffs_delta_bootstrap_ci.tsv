@@ -1,0 +1,4 @@
+outcome	unit	CNV_OGGs_n	invariant_OGGs_n	test	U_statistic	p_value	effect_size	Cliffs_delta	bootstrap_CI_level	Cliffs_delta_CI_low	Cliffs_delta_CI_high	bootstrap_replicates	bootstrap_unit	seed
+Aggregate TE coverage fraction	OGG	59	20	Two-sided Mann-Whitney U	538.0	0.5614786877122875	Cliff's delta	-0.08813559322033898	0.95	-0.36610169491525424	0.19830508474576272	50000	OGG; groups resampled independently	20260811
+TE-positive-gene fraction	OGG	59	20	Two-sided Mann-Whitney U	544.0	0.6077710464469308	Cliff's delta	-0.07796610169491526	0.95	-0.3423728813559322	0.188135593220339	50000	OGG; groups resampled independently	20260811
+Mean gene TE coverage fraction	OGG	59	20	Two-sided Mann-Whitney U	514.0	0.39463653210122585	Cliff's delta	-0.1288135593220339	0.95	-0.4101694915254237	0.16101694915254236	50000	OGG; groups resampled independently	20260811
