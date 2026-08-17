@@ -1,0 +1,21 @@
+Species	bZIP genes, n	TE-positive bZIP genes, n	TE-positive bZIP genes, %	Matched-control mean, %	Matched-control 95% CI	Difference, percentage points	Difference 95% CI	Empirical two-sided P
+All 19 genomes	1764	1274	72.2222	76.9096	75.23 to 78.63%	-4.68736	-6.41 to -3.00	0.001998
+Populus_adenopoda	93	24	25.8065	76.6613	69.89 to 83.87%	-50.8548	-58.06 to -44.09	0.001998
+Populus_alba	92	68	73.913	78.2065	70.65 to 84.78%	-4.29348	-10.87 to 3.26	0.315684
+Populus_alba_var._pyramidalis	90	68	75.5556	75.9589	68.86 to 83.33%	-0.403333	-7.78 to 6.69	1
+Populus_davidiana	92	74	80.4348	75.475	68.48 to 83.70%	4.95978	-3.26 to 11.96	0.22977
+Populus_deltoides	104	78	75	79.276	72.12 to 85.58%	-4.27596	-10.58 to 2.88	0.297702
+Populus_euphratica	90	51	56.6667	76.7056	70.00 to 84.44%	-20.0389	-27.78 to -13.33	0.001998
+Populus_ilicifolia	95	57	60	75.2484	67.37 to 83.16%	-15.2484	-23.16 to -7.37	0.001998
+Populus_koreana	96	76	79.1667	77.4688	70.81 to 84.38%	1.69792	-5.21 to 8.36	0.771229
+Populus_lasiocarpa	92	78	84.7826	79.4913	71.74 to 86.96%	5.2913	-2.17 to 13.04	0.1998
+Populus_pruinosa	94	57	60.6383	77.0383	70.21 to 85.11%	-16.4	-24.47 to -9.57	0.001998
+Populus_pseudoglauca	95	77	81.0526	76.2726	68.42 to 83.16%	4.78	-2.11 to 12.63	0.2997
+Populus_qiongdaoensis	85	48	56.4706	76.9729	68.24 to 84.71%	-20.5024	-28.24 to -11.76	0.001998
+Populus_rotundifolia	92	70	76.087	78.725	70.65 to 85.87%	-2.63804	-9.78 to 5.43	0.571429
+Populus_simonii	96	77	80.2083	76.7438	69.79 to 83.33%	3.46458	-3.13 to 10.42	0.43956
+Populus_szechuanica	94	78	82.9787	78.2596	70.21 to 85.11%	4.71915	-2.13 to 12.77	0.287712
+Populus_tremula	85	65	76.4706	75.4412	67.06 to 83.53%	1.02941	-7.06 to 9.41	0.917083
+Populus_trichocarpa	95	79	83.1579	76.3421	68.42 to 83.16%	6.81579	0.00 to 14.74	0.0819181
+Populus_wuana	90	73	81.1111	72.3933	64.44 to 81.11%	8.71778	0.00 to 16.67	0.0599401
+Populus_yunnanensis	94	76	80.8511	78.084	70.21 to 85.11%	2.76702	-4.26 to 10.64	0.561439
